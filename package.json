@@ -1,7 +1,7 @@
 {
+  "homepage": "https://emholmes.github.io/react-login",
   "name": "react-login-axios",
   "version": "0.1.0",
-  "homepage": "https://emholmes.github.io/react-login",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
